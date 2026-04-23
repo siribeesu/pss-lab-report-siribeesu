@@ -326,7 +326,7 @@ This project was developed using **Claude Code** as the AI assistant, with all c
 
 | Task | Prompts | Steps | Refinements |
 |------|---------|-------|------------|
-| UI/UX Design | "Designing from stitchh tool" | Created high-fidelity mockups and user flows | N/A |
+| UI/UX Design | "Designing from stitch tool" | Created high-fidelity mockups and user flows | N/A |
 | Architecture | "Build full-stack React + FastAPI" | Scaffolded project structure | Added service layer |
 | Patient CRUD | "Auto-generate PSS-XXXX IDs, bulk import CSV" | Implemented registration logic | Improved header matching |
 | Status Logic | "Auto-compute Normal/Abnormal/Pending" | Built clinical validation engine | Fixed boundary cases |
