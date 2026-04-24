@@ -322,7 +322,7 @@ pytest --cov     # Coverage report
 
 ## 🤖 AI Usage Log
 
-This project was developed using **Claude Code** as the AI assistant, with all code reviewed and refined manually.
+This project was developed using **Antigravity** as the AI assistant, with all code reviewed and refined manually.
 
 | Task | Prompts | Steps | Refinements |
 |------|---------|-------|------------|
